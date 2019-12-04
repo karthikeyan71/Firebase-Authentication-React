@@ -1,3 +1,8 @@
+## Required
+
+You need to create a config.js file which has your firebase credentails.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
